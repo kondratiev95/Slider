@@ -16,4 +16,4 @@ function sliderPlugin(activeSlide = 0) {
         })
     }
 }
-sliderPlugin(3) 
+sliderPlugin(4) 
